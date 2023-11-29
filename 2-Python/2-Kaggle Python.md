@@ -15,6 +15,7 @@ Learn the most important language for data science and machine learning.
 
 **Code:**
 * [Hello Python]()
+* [Functions and Getting Help]()
 
 
  =>kaggle.com
