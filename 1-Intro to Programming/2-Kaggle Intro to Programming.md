@@ -2,7 +2,7 @@ __
 
 # ID
 
-### Why?
+**Why?**
 
 * Foundation of computer literacy
 * Problem-solving skills
@@ -13,7 +13,7 @@ __
 * Collaboration and teamwork
 * Critical thinking and logical reasoning
 
-### Intro to Programming Certification: [Link](https://www.kaggle.com/learn/intro-to-programming)
+**Intro to Programming Certification: [Link](https://www.kaggle.com/learn/intro-to-programming)**
 * Arithmetic and Variable
 * Function
 * Data Type
