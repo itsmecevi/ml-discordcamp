@@ -28,5 +28,5 @@ __
 * [Condition and Conditional Statement](https://colab.research.google.com/drive/1c8lLrflPAmljsU12R3KGLMSdZ_Jvyjnw?usp=sharing)
 * [Intro to List](https://colab.research.google.com/drive/1eQv4h1vpQBUeU8Ao530JUqSX5scQ3geM?usp=sharing)
 
-**Video:** [Cevi Herdian Insight: Kaggle Learn Playlist](https://www.youtube.com/watch?v=u45eQCizFaE&list=PLpYihmZSQbl_YzLGRkyMqruoayro8C7Eq)
+**Video:** Cevi Herdian Insight: [Kaggle Learn Playlist](https://www.youtube.com/watch?v=u45eQCizFaE&list=PLpYihmZSQbl_YzLGRkyMqruoayro8C7Eq)
 
