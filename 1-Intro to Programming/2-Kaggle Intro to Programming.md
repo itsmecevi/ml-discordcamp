@@ -30,4 +30,6 @@ __
 
 **Video:** [Kaggle Learn Cevi Herdian Insight Playlist](https://www.youtube.com/watch?v=u45eQCizFaE&list=PLpYihmZSQbl_YzLGRkyMqruoayro8C7Eq)
 
+(sdsd)[google.com]
+
 
