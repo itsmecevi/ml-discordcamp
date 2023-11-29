@@ -13,7 +13,7 @@ __
 * Collaboration and teamwork
 * Critical thinking and logical reasoning
 
-### Intro to Programming Certification: https://www.kaggle.com/
+### Intro to Programming Certification: [Link](https://www.kaggle.com/learn/intro-to-programming)
 * Arithmetic and Variable
 * Function
 * Data Type
