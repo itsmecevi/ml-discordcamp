@@ -8,6 +8,7 @@ __
    * Intro to Programming
    * Python
    * Exploratory Data Analysis (EDA)
+   * Etc
 * Is is for me?
 * Tools: Github, Kaggle, Google Colab, and ChatGPT
 * Keep Contact:
